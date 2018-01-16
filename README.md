@@ -36,6 +36,7 @@
 ```
 npm install fie -g --registry=https://registry.npm.taobao.org
 fie install toolkit-qnui
+fie init qnui
 ```
 
 
